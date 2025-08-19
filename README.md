@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kawtar Dahni
+# Hi 👋, I'm Kawtar Dahni
 
 💻 *Full Stack Web Developer* | Crafting modern & scalable web applications  
 🌱 Continuously learning & improving | Passionate about UX/UI and clean code  
